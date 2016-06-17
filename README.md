@@ -1,9 +1,9 @@
 # Open-Salon
-Submit and browse projects here.
+Submit and browse projects or portfolios here.
 
-Example:
+Examples:
 
-###Jacob's Son Finder"
+###"Jacob's Son Finder"
 - Jacob Jacobson
 - _url goes here_
 - Would love help with logo and back end.
